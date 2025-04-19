@@ -1,0 +1,26 @@
+body{
+    font-family: Arial, san-serif;
+    background-color:#ffbfbf;
+}
+.container{
+    max-width:400px;
+    height:200px;
+    margin:40px auto;
+    padding:20px;
+    background-color:lightblue;
+    border:1px solid #ddd;
+    border-radius:10px; rgba(0, 0, 0, 0.1);
+}
+#search-btn{
+    bg-color:green;
+    cusor:pointer;
+}
+button{
+    cursor:pointer;
+}
+#weather-data{
+    margin-top:20px;
+}
+#weather-app p{
+    margin-buttom:1px;
+}
